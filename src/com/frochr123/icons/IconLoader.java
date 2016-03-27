@@ -44,6 +44,8 @@ public class IconLoader
   // QR codes
   public static final String ICON_QRCODE = "icon-qrcode.png";
 
+  // STOP icon
+  public static final String ICON_STOP = "icon-stop.png";  
 
   // Function to load image as Icon
   public static ImageIcon loadIcon(String filename)
