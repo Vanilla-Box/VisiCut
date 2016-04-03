@@ -3373,7 +3373,7 @@ private void projectorActiveMenuItemActionPerformed(java.awt.event.ActionEvent e
   }//GEN-LAST:event_webcamQRCodeMenuItemActionPerformed
 
 private void btHaltJobActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btHaltJobActionPerformed
-   MainView.this.visicutModel1.getSelectedLaserDevice().getLaserCutter().haltJob();
+//   MainView.this.visicutModel1.getSelectedLaserDevice().getLaserCutter().haltJob();
 }//GEN-LAST:event_btHaltJobActionPerformed
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
