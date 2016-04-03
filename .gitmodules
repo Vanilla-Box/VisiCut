@@ -1,4 +1,4 @@
 [submodule "lib/LibLaserCut"]
 	path = lib/LibLaserCut
-	url = git://github.com:Vanilla-Box/LibLaserCut.git
+	url = git://github.com/Vanilla-Box/LibLaserCut.git
 	branch = develop
